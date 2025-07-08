@@ -267,7 +267,7 @@ body {
 a{
   text-decoration: none;
   cursor: pointer;
-  color: #ffa200;
+  color: #c6a47e;
   -moz-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
@@ -399,7 +399,7 @@ p{
 }
 
 .btn-style-one:hover:after{
-  background: #f6a21c;
+  background: #c6a47e;
 }
 
 .btn-style-one .btn-box{
@@ -414,7 +414,7 @@ p{
 }
 
 .btn-style-one:hover .btn-box{
-  background: #f6a21c;
+  background: #c6a47e;
   color: #010101;
 }
 
@@ -459,8 +459,8 @@ p{
 }
 
 .btn-style-two:hover .btn-box{
-  border-color: #f6a21c;
-  color: #f6a21c;
+  border-color: #c6a47e;
+  color: #c6a47e;
 }
 
 .btn-style-two .btn-box:after{
@@ -479,7 +479,7 @@ p{
 }
 
 .btn-style-two:hover .btn-box:after{
-  border-color: #f6a21c;
+  border-color: #c6a47e;
 }
 
 .btn-style-two .btn-arrow{
@@ -1251,7 +1251,7 @@ form label.error{
 
 .main-header .header-upper .contact-btn:hover:after,
 .fixed-header .header-upper .contact-btn:after{
-  background: #f6a21c;
+  background: #c6a47e;
 }
 
 .main-header .header-upper .contact-btn .btn-box{
@@ -1276,7 +1276,7 @@ form label.error{
 
 .main-header .header-upper .contact-btn:hover .btn-box,
 .fixed-header .header-upper .contact-btn .btn-box{
-  background: #f6a21c;
+  background: #c6a47e;
   color: #010101;
 }
 
@@ -2988,7 +2988,7 @@ body.visible-sidebar{
 }
 
 .s-block .image-box .link a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
 }
 
 .s-block .lower-box{
@@ -3007,7 +3007,7 @@ body.visible-sidebar{
 }
 
 .s-block .lower-box h3 a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
 } 
 
 /*** 
@@ -3525,7 +3525,7 @@ body.visible-sidebar{
 }
 
 .ai-section .title-box .link-box a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
 }
 
 .ai-section .carousel-box{
@@ -3886,7 +3886,7 @@ body.visible-sidebar{
 }
 
 .main-footer .social-links li a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
   opacity: 0.70;
 }
 
@@ -4176,7 +4176,7 @@ body.visible-sidebar{
 
 .banner-card-carousel .slide-item .link a:hover{
   color: #ffffff;
-  background: #f6a21c;
+  background: #c6a47e;
 }
 
 .banner-card-carousel .slide-item .count{
@@ -4452,7 +4452,7 @@ body.visible-sidebar{
 
 .banner-full-carousel .owl-nav .owl-next:hover,
 .banner-full-carousel .owl-nav .owl-prev:hover{
-  background: #f6a21c !important;
+  background: #c6a47e !important;
   color: #ffffff !important;
 }
 
@@ -4766,7 +4766,7 @@ body.visible-sidebar{
 
 .banner-inter-carousel .owl-nav .owl-next:hover,
 .banner-inter-carousel .owl-nav .owl-prev:hover{
-  color: #f6a21c !important;
+  color: #c6a47e !important;
 }
 
 .banner-full-carousel .owl-dots{
@@ -5507,7 +5507,7 @@ body.visible-sidebar{
 }
 
 .s-block .image-box .link a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
 }
 
 .s-block .lower-box{
@@ -5526,7 +5526,7 @@ body.visible-sidebar{
 }
 
 .s-block .lower-box h3 a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
 } */
 
 /*** 
@@ -6044,7 +6044,7 @@ body.visible-sidebar{
 }
 
 .ai-section .title-box .link-box a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
 }
 
 .ai-section .carousel-box{
@@ -6411,7 +6411,7 @@ body.visible-sidebar{
 }
 
 .main-footer .social-links li a:hover{
-  color: #f6a21c;
+  color: #c6a47e;
   opacity: 0.70;
 }
 
@@ -6701,7 +6701,7 @@ body.visible-sidebar{
 
 .banner-card-carousel .slide-item .link a:hover{
   color: #ffffff;
-  background: #f6a21c;
+  background: #c6a47e;
 }
 
 .banner-card-carousel .slide-item .count{
@@ -6982,7 +6982,7 @@ body.visible-sidebar{
 
 .banner-full-carousel .owl-nav .owl-next:hover,
 .banner-full-carousel .owl-nav .owl-prev:hover{
-  background: #f6a21c !important;
+  background: #c6a47e !important;
   color: #ffffff !important;
 }
 
@@ -7296,7 +7296,7 @@ body.visible-sidebar{
 
 .banner-inter-carousel .owl-nav .owl-next:hover,
 .banner-inter-carousel .owl-nav .owl-prev:hover{
-  color: #f6a21c !important;
+  color: #c6a47e !important;
 }
 
 .banner-full-carousel .owl-dots{
@@ -7613,7 +7613,7 @@ body.visible-sidebar{
 .testimonial-one .owl-prev:hover,
 .testimonial-one .owl-next:hover{
   color: #ffffff !important;
-  background-color: #f6a21c !important;
+  background-color: #c6a47e !important;
 }
 
 .testimonial-block-one{
@@ -8629,7 +8629,7 @@ body.visible-sidebar{
 }
 
 .project-block_two .link-box .btn-style-one:hover{
-  border-color: #f6a21c;
+  border-color: #c6a47e;
 }
 
 /*** 
