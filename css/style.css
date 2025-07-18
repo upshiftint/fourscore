@@ -3065,7 +3065,7 @@ body.visible-sidebar{
   position: relative;
   font-size: 24px;
   line-height: 1.6em;
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 .sec-title .link-box{
@@ -3474,7 +3474,7 @@ body.visible-sidebar{
 
 .about-three .text-col .inner{
   position: relative;
-  padding-top: 160px;
+  padding-top: 0px;
   padding-left: 50px;
 }
 
@@ -5837,7 +5837,7 @@ body.visible-sidebar{
 
 .project-cats .cat-block .cat-title{
   position: relative;
-  padding: 110px 45px 20px 60px;
+  padding: 110px 20px 20px 20px;
   z-index: 2;
 }
 
@@ -6150,7 +6150,7 @@ body.visible-sidebar{
 
 .sponsors-section{
   position: relative;
-  padding: 135px 0px;
+  padding: 20px 20px;
 }
 
 .sponsors-section .owl-dots{
@@ -7496,7 +7496,7 @@ body.visible-sidebar{
 
 .services-one{
   position: relative;
-  padding: 110px 0px 80px;
+  padding: 80px 0px 80px;
   background-position: left top;
   background-repeat: no-repeat;
 }
@@ -7680,7 +7680,7 @@ body.visible-sidebar{
 
 .building-one{
   position: relative;
-  padding: 110px 0px 100px;
+  padding: 10px 0px 40px;
   border-bottom: 1px solid #000000;
 }
 
@@ -7690,7 +7690,7 @@ body.visible-sidebar{
 
 .building-one .column{
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 }
 
 .building-tabs{
@@ -8811,7 +8811,7 @@ body.visible-sidebar{
 
 .contact-one{
   position: relative;
-  padding: 130px 0px 110px;
+  padding: 130px 0px 10px;
 }
 
 .contact-one .inner-container{
