@@ -5775,7 +5775,7 @@ body.visible-sidebar{
 
 .project-cats{
   position: relative;
-  padding: 60px 0px 100px;
+  padding: 0px 0px 100px;
 }
 
 .project-cats .upper-row{
@@ -6200,7 +6200,21 @@ body.visible-sidebar{
   background-size: cover;
   opacity: 1;
 }
+.form-group input,
+.form-group select {
+  
+    padding-right: 20px !important;
+    border: 1px solid #000000 !important;
+    border-radius: 0px !important;
 
+}
+
+.text-1 {
+    position: relative;
+    font-size: 20px;
+    line-height: 1.8em;
+    padding-top: 10px;
+}
 .subscribe-section .content-box{
   position: relative;
   display: block;
@@ -7680,7 +7694,7 @@ body.visible-sidebar{
 
 .building-one{
   position: relative;
-  padding: 10px 0px 40px;
+  padding: 80px 0px 0px;
   border-bottom: 1px solid #000000;
 }
 
@@ -8401,8 +8415,8 @@ body.visible-sidebar{
 
 .project-two{
 	position: relative;
-	margin: 20px 0px;
-  border-top: 1px solid rgba(0, 0, 0, 0.10);
+	margin: 40px 0px;
+  /* border-top: 1px solid rgba(0, 0, 0, 0.10); */
   border-bottom: 1px solid rgba(0, 0, 0, 0.10);
 }
 
